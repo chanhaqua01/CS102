@@ -1,0 +1,23 @@
+.topic-page-container {
+  margin-top: 56px;
+}
+
+.card {
+  /* position: absolute; */
+  width: 350px !important;
+  height: 197px;
+  margin-top: 32px;
+  margin-left: 4px;
+  margin-top: 32px;
+  background-color: #c4c4c4;
+}
+
+.column {
+  margin-left: 32px;
+}
+
+.pagination {
+  float: right;
+  margin-top: 32px;
+  margin-bottom: 56px;
+}

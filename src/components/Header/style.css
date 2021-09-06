@@ -1,0 +1,40 @@
+.tim-kiem {
+  /* position: absolute; */
+  width: 160px;
+  height: 38px;
+  left: 6px;
+  background: black;
+}
+
+.profile {
+  top: 30%;
+  margin-right: 16px;
+}
+
+.dropdown-toggle {
+  color: #212121;
+}
+
+.navbar-brand {
+  margin-left: 72px;
+  margin-top: 4px;
+}
+
+.welcome-user {
+  position: absolute;
+  left: 77.01%;
+  right: 15.14%;
+  top: 30%;
+  bottom: 30%;
+  margin-right: -56px !important;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  text-align: right;
+
+  color: #ffffff;
+}

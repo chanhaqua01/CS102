@@ -1,0 +1,13 @@
+.qanda-page-container {
+  margin-top: 56px;
+}
+
+.card {
+  margin-top: 32px;
+}
+
+.pagination {
+  float: right;
+  margin-top: 32px;
+  margin-bottom: 56px;
+}
